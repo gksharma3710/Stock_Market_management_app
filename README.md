@@ -117,9 +117,6 @@ To set up the database, follow these steps:
 ### Login/Sign-up Workflow
 ![homepage work flow](./images/lswork.png)
 
-### Order Workflow
-![Order flow](./images/orderflow.png)
-
 ## Future Scope
 
 The `StockUp` project provides a foundation for a stock trading and portfolio
