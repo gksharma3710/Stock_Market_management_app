@@ -86,7 +86,7 @@ To set up the database, follow these steps:
 #### Dark Theme
 ![Homepage](./images/homepage1.png)
 #### Light Theme
-![Homepage](./images/homepage2.png)
+![Homepage](./images/homepage.png)
 
 ### Login Page
 #### Dark Theme
