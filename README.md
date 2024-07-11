@@ -5,8 +5,6 @@ Stock Market Management System is a Python application that allows users to mana
 
 ## Table of Contents
 
-> [About Me](#about-me)
-
 > [Features](#features)
 
 > [Installation](#installation)
