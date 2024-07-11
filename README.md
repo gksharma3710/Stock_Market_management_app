@@ -78,15 +78,15 @@ To set up the database, follow these steps:
 
 ## ERD
 
-![ERD](./images/erd.png)
+![ERD](./images/er.png)
 
 ## Screenshots
 
 ### Home Page
 #### Dark Theme
-![Homepage](./images/Homepage.png)
+![Homepage](./images/homepage.png)
 #### Light Theme
-![Homepage](./images/Homepage.png)
+![Homepage](./images/homepage1.png)
 
 ### Login Page
 #### Dark Theme
