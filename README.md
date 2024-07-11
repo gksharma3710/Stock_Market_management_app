@@ -23,8 +23,6 @@ Stock Market Management System is a Python application that allows users to mana
 
 > [Future Scope](#future-scope)
 
-> [License](#license)
-
 ## Features
 
 - User registration with details like full name, PAN card, Aadhar number, phone number, and initial balance.
@@ -88,7 +86,7 @@ To set up the database, follow these steps:
 #### Dark Theme
 ![Homepage](./images/Homepage.png)
 #### Light Theme
-![Homepage](./images/Homepage_l.png)
+![Homepage](./images/Homepage.png)
 
 ### Login Page
 #### Dark Theme
