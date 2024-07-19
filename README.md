@@ -47,7 +47,7 @@ Stock Market Management System is a Python application that allows users to mana
 
 3. Database Setup:
    - Create a MySQL database.
-   - Import the SQL script `stock_market_db.sql` provided in the repository to set up the database schema.
+   - Import the SQL script `sm_db.sql` provided in the repository to set up the database schema.
    - Update the database credentials in the `database_credentials.txt` file with the appropriate information, including the host, user, and password.
 
 4. Run the application:
